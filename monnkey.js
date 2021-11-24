@@ -30,7 +30,7 @@ www\.acfun\.cn/v/.* url script-response-body https://raw.githubusercontent.com/p
 www\.bilibili\.com/video/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
 www\.bilibili\.com/anime/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
 www\.bilibili\.com/bangumi/play/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
-vip\.1905\.com/play/.* url script-response-body VIP https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+vip\.1905\.com/play/.* url script-response-body  https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
 www\.wasu\.cn/Play/show/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
 www\.56\.com/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
 
