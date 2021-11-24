@@ -14,25 +14,25 @@ hostname=v\.qq\.com/x/cover/.*, v\.qq\.com/x/page/.*, www\.iqiyi\.com/v.*, v\.yo
 
 🔘 Quantumult X
 [rewrite_local]
-v\.qq\.com/x/cover/.* url script-response-body VIP 视频解析(优化增强版).user.js
-v\.qq\.com/x/page/.* url script-response-body VIP 视频解析(优化增强版).user.js
-www\.iqiyi\.com/v.* url script-response-body VIP 视频解析(优化增强版).user.js
-v\.youku\.com/v_show/.* url script-response-body VIP 视频解析(优化增强版).user.js
-www\.mgtv\.com/b/.* url script-response-body VIP 视频解析(优化增强版).user.js
-tv\.sohu\.com/v/.* url script-response-body VIP 视频解析(优化增强版).user.js
-film\.sohu\.com/album/.* url script-response-body VIP 视频解析(优化增强版).user.js
-www\.le\.com/ptv/vplay/.* url script-response-body VIP 视频解析(优化增强版).user.js
-video\.tudou\.com/v/.* url script-response-body VIP 视频解析(优化增强版).user.js
-v\.pptv\.com/show/.* url script-response-body VIP 视频解析(优化增强版).user.js
-vip\.pptv\.com/show/.* url script-response-body VIP 视频解析(优化增强版).user.js
-www\.fun\.tv/vplay/.* url script-response-body VIP 视频解析(优化增强版).user.js
-www\.acfun\.cn/v/.* url script-response-body VIP 视频解析(优化增强版).user.js
-www\.bilibili\.com/video/.* url script-response-body VIP 视频解析(优化增强版).user.js
-www\.bilibili\.com/anime/.* url script-response-body VIP 视频解析(优化增强版).user.js
-www\.bilibili\.com/bangumi/play/.* url script-response-body VIP 视频解析(优化增强版).user.js
-vip\.1905\.com/play/.* url script-response-body VIP 视频解析(优化增强版).user.js
-www\.wasu\.cn/Play/show/.* url script-response-body VIP 视频解析(优化增强版).user.js
-www\.56\.com/.* url script-response-body VIP 视频解析(优化增强版).user.js
+v\.qq\.com/x/cover/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+v\.qq\.com/x/page/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+www\.iqiyi\.com/v.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+v\.youku\.com/v_show/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+www\.mgtv\.com/b/.* url script-response-body  https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+tv\.sohu\.com/v/.* url script-response-body  https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+film\.sohu\.com/album/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+www\.le\.com/ptv/vplay/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+video\.tudou\.com/v/.* url script-response-body  https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+v\.pptv\.com/show/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+vip\.pptv\.com/show/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+www\.fun\.tv/vplay/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+www\.acfun\.cn/v/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+www\.bilibili\.com/video/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+www\.bilibili\.com/anime/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+www\.bilibili\.com/bangumi/play/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+vip\.1905\.com/play/.* url script-response-body VIP https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+www\.wasu\.cn/Play/show/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
+www\.56\.com/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
 
 
 🔘 Loon
