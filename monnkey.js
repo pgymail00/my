@@ -30,55 +30,9 @@ www\.acfun\.cn/v/.* url script-response-body https://raw.githubusercontent.com/p
 www\.bilibili\.com/video/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
 www\.bilibili\.com/anime/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
 www\.bilibili\.com/bangumi/play/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
-vip\.1905\.com/play/.* url script-response-body  https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
 www\.wasu\.cn/Play/show/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
 www\.56\.com/.* url script-response-body https://raw.githubusercontent.com/pgymail00/my/main/monnkey.js
 
-
-🔘 Loon
-[Script]
-http-response v\.qq\.com/x/cover/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response v\.qq\.com/x/page/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response www\.iqiyi\.com/v.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response v\.youku\.com/v_show/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response www\.mgtv\.com/b/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response tv\.sohu\.com/v/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response film\.sohu\.com/album/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response www\.le\.com/ptv/vplay/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response video\.tudou\.com/v/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response v\.pptv\.com/show/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response vip\.pptv\.com/show/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response www\.fun\.tv/vplay/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response www\.acfun\.cn/v/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response www\.bilibili\.com/video/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response www\.bilibili\.com/anime/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response www\.bilibili\.com/bangumi/play/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response vip\.1905\.com/play/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response www\.wasu\.cn/Play/show/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-http-response www\.56\.com/.* script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, tag=VIP 视频解析(优化增强版).user.js
-
-
-🔘 Surge
-[Script]
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=v\.qq\.com/x/cover/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=v\.qq\.com/x/page/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=www\.iqiyi\.com/v.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=v\.youku\.com/v_show/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=www\.mgtv\.com/b/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=tv\.sohu\.com/v/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=film\.sohu\.com/album/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=www\.le\.com/ptv/vplay/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=video\.tudou\.com/v/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=v\.pptv\.com/show/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=vip\.pptv\.com/show/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=www\.fun\.tv/vplay/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=www\.acfun\.cn/v/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=www\.bilibili\.com/video/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=www\.bilibili\.com/anime/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=www\.bilibili\.com/bangumi/play/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=vip\.1905\.com/play/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=www\.wasu\.cn/Play/show/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
-VIP 视频解析(优化增强版).user.js=type=http-response, pattern=www\.56\.com/.*, script-path=VIP 视频解析(优化增强版).user.js, requires-body=true, max-size=1310720
 
 
 `
